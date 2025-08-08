@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **qack-dev/qack-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### こんにちは、qack-devです！
+
+私は、**VBAによる業務効率化**と**Web技術**に情熱を注ぐシステムエンジニアです。品質管理業務で培った課題発見力と、それを解決するツールを自ら作り上げる実行力が強みです。
+
+現在は、**AWS**と**Python**を用いたバックエンド開発、**Linux**環境でのインフラ構築に力を入れており、継続的なスキルアップに励んでいます。
+
+- 🔭 **現在取り組んでいること:** AWSのサーバレスアーキテクチャを用いたアプリケーション開発
+- 🌱 **学習中の技術:** Python(Flask, Boto3), Docker, AWS (Lambda, DynamoDB, API Gateway)
+- 📫 **連絡先:** [tack0916@gmail.com](mailto:tack0916@gmail.com)
