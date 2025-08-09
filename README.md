@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 現在は、**AWS**と**Python**を用いたバックエンド開発、**Linux**環境でのインフラ構築に力を入れており、継続的なスキルアップに励んでいます。
 
-- 🔭 **現在取り組んでいること:** AWSのサーバレスアーキテクチャを用いたアプリケーション開発
-- 🌱 **学習中の技術:** Python(Flask, Boto3), AWS (SysOps Administrator)
+- 🔭 **現在取り組んでいること:** AWS SysOps Administrator取得のために、参考書を読みながらハンズオントレーニング
+- 🌱 **学習中の技術:** Python(Flask, Boto3), AWS
 - 📫 **連絡先:** [tack0916@gmail.com](mailto:tack0916@gmail.com)
