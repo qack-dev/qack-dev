@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 現在は、**Python**を用いた開発、**Linux / AWS** 環境でのインフラ構築に力を入れており、継続的なスキルアップに励んでいます。
 
 - 🔭 **現在取り組んでいること:** AWS SysOps Administrator取得のために、参考書を読みながらハンズオントレーニング
-- 🌱 **学習中の技術:** Python(Flask, Boto3), AWS
+- 🌱 **学習中の技術:** Python(FastAPI), AWS
 - 📫 **連絡先:** [tack0916@gmail.com](mailto:tack0916@gmail.com)
