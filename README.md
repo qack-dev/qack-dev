@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### こんにちは！
+### こんにちは、qack-devです！
 
-VBAによる業務改善ツールの開発経験を原点に、技術による課題解決を追求するエンジニアです。
+私は、VBAによる業務改善ツールの開発経験を原点に、技術による課題解決を追求するエンジニアです。
 
-現在は、AWSを中心としたクラウド技術とPython(FastAPI)でのバックエンド開発に注力しており、インフラからアプリケーションまで一貫して携われるフルスタックな開発者を目指しています。
+現在は、AWSを中心としたクラウド技術とPythonでの業務効率化に注力しており、インフラからアプリケーションまで一貫して携われるフルスタックな開発者を目指しています。
 
 <br/>
 
 ### 技術スタック
 
-- **クラウド / インフラ:** AWS, Linux, Docker, CloudFormation, Bash
-- **バックエンド:** Python, FastAPI, MySQL, MariaDB, DynamoDB
+- **クラウド / インフラ:** AWS, Linux, Bash
+- **バックエンド:** Python, MariaDB
 - **フロントエンド:** HTML, CSS, JavaScript
 - **その他:** VBA, Git, GitHub
 
@@ -32,5 +32,5 @@ VBAによる業務改善ツールの開発経験を原点に、技術による�
 
 ### 学習中のこと
 
-- AWS Certified SysOps Administrator - Associate (SOA)資格取得のために参考書を読みながらハンズオントレーニング
+- 「AWS Certified SysOps Administrator - Associate (SOA)」資格取得のために、参考書を読みながらハンズオントレーニング
 - Python(FastAPI)
