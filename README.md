@@ -12,12 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### こんにちは、qack-devです！
 
-私は、**VBA / Python による業務効率化**と**インフラ技術**に情熱を注ぐシステムエンジニアです。品質管理業務で培った課題発見力と、それを解決するツールを自ら作り上げる実行力が強みです。
+私は、VBAによる業務改善ツールの開発経験を原点に、技術による課題解決を追求するエンジニアです。
 
-現在は、**Python**を用いた開発、**Linux / AWS** 環境でのインフラ構築に力を入れており、継続的なスキルアップに励んでいます。
+現在は、AWSを中心としたクラウド技術とPythonでの業務効率化に注力しており、インフラからアプリケーションまで一貫して携われるフルスタックな開発者を目指しています。
 
-- 🔭 **現在取り組んでいること:** AWS SysOps Administrator取得のために、参考書を読みながらハンズオントレーニング
-- 🌱 **学習中の技術:** Python(FastAPI), AWS
-- 📫 **連絡先:** [tack0916@gmail.com](mailto:tack0916@gmail.com)
+### 技術スタック
+
+#### ✔️ 開発経験のある技術
+- **言語:** Python, VBA, HTML, CSS, JavaScript, Bash
+- **データベース:** MariaDB
+- **その他:** Linux, Git, GitHub
+
+#### 🌱 学習・実践中の技術
+- **クラウド (AWS):** EC2, S3, Lambda, API Gateway, DynamoDB, CloudFormation, etc.
+- **コンテナ:** Docker
+- **Webフレームワーク:** FastAPI
+
+### その他
+
+ - 「AWS Certified SysOps Administrator - Associate (SOA)」資格取得のために、参考書を読みながらハンズオントレーニング中です。
+ - 本profileは、2025年8月時点のものです。
