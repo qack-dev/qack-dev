@@ -19,23 +19,19 @@ Here are some ideas to get you started:
 
 現在は、AWSを中心としたクラウド技術とPythonでの業務効率化に注力しており、インフラからアプリケーションまで一貫して携われるフルスタックな開発者を目指しています。
 
-<br/>
-
 ### 技術スタック
 
-#### ✔️ 実務・開発経験のある技術
+#### ✔️ 開発経験のある技術
 - **言語:** Python, VBA, HTML, CSS, JavaScript, Bash
 - **データベース:** MariaDB
 - **その他:** Linux, Git, GitHub
 
-#### 🌱 学習・実践中の技術 (2025年8月)
+#### 🌱 学習・実践中の技術
 - **クラウド (AWS):** EC2, S3, Lambda, API Gateway, DynamoDB, CloudFormation, etc.
 - **コンテナ:** Docker
 - **Webフレームワーク:** FastAPI
 
-<br/>
+### その他
 
-### 学習中のこと
-
-- 「AWS Certified SysOps Administrator - Associate (SOA)」資格取得のために、参考書を読みながらハンズオントレーニング
-- Python(FastAPI)
+ - 「AWS Certified SysOps Administrator - Associate (SOA)」資格取得のために、参考書を読みながらハンズオントレーニング中です。
+ - 本profileは、2025年8月時点のものです。
