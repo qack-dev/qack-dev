@@ -23,10 +23,15 @@ Here are some ideas to get you started:
 
 ### 技術スタック
 
-- **クラウド / インフラ:** AWS, Linux, Bash
-- **バックエンド:** Python, MariaDB
-- **フロントエンド:** HTML, CSS, JavaScript
-- **その他:** VBA, Git, GitHub
+#### ✔️ 実務・開発経験のある技術
+- **言語:** Python, VBA, HTML, CSS, JavaScript, Bash
+- **データベース:** MariaDB
+- **その他:** Linux, Git, GitHub
+
+#### 🌱 学習・実践中の技術 (2025年8月)
+- **クラウド (AWS):** EC2, S3, Lambda, API Gateway, DynamoDB, CloudFormation, etc.
+- **コンテナ:** Docker
+- **Webフレームワーク:** FastAPI
 
 <br/>
 
