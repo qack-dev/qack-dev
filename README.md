@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 ### その他
 
- - 「AWS Certified SysOps Administrator - Associate (SOA)」資格取得のために、参考書を読みながらハンズオントレーニング中です。
- - 本profileは、2025年8月時点のものです。
+- 「AWS Certified SysOps Administrator - Associate (SOA)」資格取得のために、参考書を読みながらハンズオントレーニング中です。
+- 本profileは、2025年8月時点のものです。
