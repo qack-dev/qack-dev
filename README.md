@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 
 - 「AWS Certified SysOps Administrator - Associate (SOA)」資格取得のために、参考書を読みながらハンズオントレーニング中です。
 - 本profileは、2025年8月時点のものです。
+---
+### 追記（2026/4/30）
+- 「Oracle Certified Java Programmer, Silver(Java Silver)」資格取得のために、参考書を読みながらハンズオントレーニング中です。
