@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### こんにちは、qack-devです！
 
-私は、VBAによる業務改善ツールの開発経験を原点に、技術による課題解決を追求するエンジニアです。
+私は、VBAによる業務改善ツールの開発経験・自宅サーバの構築経験を原点に、技術による課題解決を追求するエンジニアです。
 
 現在は、AWSを中心としたクラウド技術とPythonでの業務効率化に注力しており、インフラからアプリケーションまで一貫して携われるフルスタックな開発者を目指しています。
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 #### ✔️ 開発経験のある技術
 - **言語:** Python, VBA, HTML, CSS, JavaScript, Bash
-- **データベース:** MariaDB
+- **データベース:** MariaDB(MySQL)
 - **その他:** Linux, Git, GitHub
 
 #### 🌱 学習・実践中の技術
